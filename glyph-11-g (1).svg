@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="6"
+  height="14"
+  viewBox="0 0 6 14"
+  version="1.1"
+  role="img"
+  aria-label="Glyph g"
+>
+  <title>Glyph g</title>
+
+  
+
+  <path
+    d="M1 0L2 0L2 1L1 1L1 0ZM3 0L4 0L4 1L3 1L3 0ZM1 4L2 4L3 4L4 4L5 4L6 4L6 5L5 5L5 6L5 7L5 8L4 8L4 9L3 9L2 9L2 10L3 10L4 10L5 10L5 11L6 11L6 12L6 13L5 13L5 14L4 14L3 14L3 13L4 13L4 12L4 11L3 11L2 11L1 11L1 10L0 10L0 9L1 9L1 8L0 8L0 7L0 6L0 5L1 5L1 4ZM3 5L2 5L2 6L1 6L1 7L2 7L2 8L3 8L3 7L3 6L3 5ZM0 11L1 11L1 12L1 13L2 13L2 14L1 14L0 14L0 13L0 12L0 11Z"
+    fill="#111111"
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+  />
+</svg>
